@@ -1,0 +1,2 @@
+# ERP-Software-and-CRM-Service-Providers---MULTAI
+Enterprise resource planning systems (ERP) “is a category of business-management software—typically a suite of integrated applications—that an organization can use to collect, store, manage and interpret data from many business activities, including product planning, cost, manufacturing or service delivery, marketing and sales, inventory management, shipping, and payment”.
